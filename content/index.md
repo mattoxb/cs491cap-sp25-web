@@ -8,4 +8,4 @@ title: Welcome to Quartz
 - [[Getting Started]]
 - [[Lecture Schedule]]
 - [[Syllabus]]
-- [[How to Succeed in this Course]]
+- [[How to Succeed in this Course]] (Coming soon)
