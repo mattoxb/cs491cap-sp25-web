@@ -3,4 +3,4 @@ an up-tree datastructure.
 
 ## Slides
 
--   [[/slides/disjoint-sets.pdf|Disjoint Sets (PDF)]]
+- [[/slides/disjoint-sets.pdf|Disjoint Sets (PDF)]]

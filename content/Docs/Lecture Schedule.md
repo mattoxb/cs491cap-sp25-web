@@ -6,5 +6,6 @@
 | [[January 29th, 2025]] | [[Complete Search]]           |
 | [[January 31st, 2025]] | [[Divide and Conquer]]        |
 | [[February 2nd, 2025]] | [[Disjoint Sets]]             |
-| [[February 4th, 2025]] | [[Graph Representations]]     |
-| [[February 6th, 2025]] | [[Graph Traversals 1]]        |
+| [[February 4th, 2025]] | [[Binary Search Trees]]       |
+| [[February 6th, 2025]] | [[Graph Representations]]     |
+| [[February 9th, 2025]] | [[Graph Traversals 1]]        |
