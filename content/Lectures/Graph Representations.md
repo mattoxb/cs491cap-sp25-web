@@ -6,4 +6,4 @@ A very large number of problems in competitive programming will involve graphs. 
 
 ## Slides
 
-- [[/slides/graph-representation.pdf|Graph Representation (PDF)]]
+- [[graph-representation.pdf|Graph Representations (PDF)]]
