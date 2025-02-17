@@ -1,4 +1,4 @@
-| Date                    | Lecture                          |
+| SDate                   | Lecture                          |
 | ----------------------- | -------------------------------- |
 | [[January 22nd, 2025]]  | [[Course Introduction]]          |
 | [[January 24th, 2025]]  | [[IO]]                           |
@@ -10,4 +10,5 @@
 | [[February 7th, 2025]]  | [[Graph Representations]]        |
 | [[February 10th, 2025]] | [[Graph Traversals 1]]           |
 | [[February 12th, 2025]] | [[Single Source Shortest Path]]] |
-| [[February 14th, 2025]] | [[LCA and Binary Lifting]]       |
+| [[February 14th, 2025]] | [[Bellman Ford and SPFA]]        |
+| [[February 17th, 2025]] | [[LCA and Binary Lifting]]       |
