@@ -16,6 +16,6 @@
 | [[February 19th, 2025]] | [[Strongly Connected Components]]                           |
 | [[February 21st, 2025]] | No Class Today                                              |
 | [[February 24th, 2025]] | [[Lectures/Minimum Spanning Trees\|Minimum Spanning Trees]] |
-| [[February 26th, 2025]] | [[Bit Manipulations]]                                       |
+| [[February 26th, 2025]] | [[Videos/Bit Manipulations\|Bit Manipulations]]             |
 | [[February 28th, 2025]] | [[Fast Exponentiation]]                                     |
 
