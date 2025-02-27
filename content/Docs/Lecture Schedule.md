@@ -18,4 +18,9 @@
 | [[February 24th, 2025]] | [[Lectures/Minimum Spanning Trees\|Minimum Spanning Trees]] |
 | [[February 26th, 2025]] | [[Lectures/Bit Manipulations\|Bit Manipulations]]           |
 | [[February 28th, 2025]] | [[Fast Exponentiation]]                                     |
+| [[March 3rd, 2025]]     | [[Binary Lifting and Least Common Ancestor]]                |
+| [[March 5th, 2025]]     | [[Sqrt Decomposition]]                                      |
+| [[March 7th, 2025]]     | [[Segment Trees]]                                           |
+| [[March 9th, 2025]]     | [[Lazy Segment Trees]]                                      |
+| [[March 12th, 2025]]    | [[Fenwick Trees]]                                           |
 
