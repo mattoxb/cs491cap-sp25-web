@@ -2,7 +2,7 @@
 
 -   Course Title: Introduction to Competitive Programming
 -   Rubric: CS 491 CAP
--   Dates:  [[January 22nd, 2025]] to [[May 7th, 2025]]
+-   Dates:  [[January 22, 2025]] to [[May 7, 2025]]
 -   Time: 14:00
 -   Location: 1320 Everett
 -   Instructor: Mattox Beckman
