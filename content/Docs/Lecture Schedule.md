@@ -26,7 +26,7 @@
 | [[March 14, 2025]]    | No Class (Pre-Spring Break)                                 |
 | [[March 24, 2025]]    | [[Greedy Algorithms]]y                                      |
 | [[March 26, 2025]]    | [[Dynamic Programming]]                                     |
-| [[March 28, 2025]]    | LIS                                                         |
+| [[March 28, 2025]]    | [[Longest Common Sequence]]                                 |
 | [[March 30, 2025]]    | DP Pallindromes                                             |
 | [[April 2, 2025]]     | DP Edit Distance                                            |
 | [[April 4, 2025]]     | DP Trees and DAGs                                           |
