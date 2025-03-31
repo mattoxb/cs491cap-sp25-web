@@ -24,17 +24,17 @@
 | [[March 9, 2025]]     | [[Lazy Segment Trees]]                                      |
 | [[March 12, 2025]]    | [[Fenwick Trees]]                                           |
 | [[March 14, 2025]]    | No Class (Pre-Spring Break)                                 |
-| [[March 24, 2025]]    | [[Greedy Algorithms]]y                                      |
+| [[March 24, 2025]]    | [[Greedy Algorithms]]                                       |
 | [[March 26, 2025]]    | [[Dynamic Programming]]                                     |
 | [[March 28, 2025]]    | [[Longest Common Sequence]]                                 |
-| [[March 30, 2025]]    | DP Pallindromes                                             |
-| [[April 2, 2025]]     | DP Edit Distance                                            |
+| [[March 31, 2025]]    | [[DP Palindromes]]                                          |
+| [[April 2, 2025]]     | [[DP Edit Distance]]                                        |
 | [[April 4, 2025]]     | DP Trees and DAGs                                           |
 | [[April 7, 2025]]     | DP Knapsack                                                 |
 | [[April 9, 2025]]     | DP TSP                                                      |
 | [[April 11, 2025]]    | DP KMP                                                      |
 | [[April 14, 2025]]    | Rabin Karp                                                  |
-| [[April 16, 2025]]    | Number Theory: Primes and GCD                               |
+| [[April 16, 2025]]    | [[Primes and GCD]]                                          |
 | [[April 18, 2025]]    | Number Theory: Fermat's Little and Euler Torion             |
 | [[April 21, 2025]]    | Combinatorics, inclusion exclusion                          |
 | [[April 23, 2025]]    | Points, Lines, Vectors                                      |
