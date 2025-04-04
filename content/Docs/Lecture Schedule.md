@@ -29,7 +29,7 @@
 | [[March 28, 2025]]    | [[Longest Common Sequence]]                                 |
 | [[March 31, 2025]]    | [[DP Palindromes]]                                          |
 | [[April 2, 2025]]     | [[DP Edit Distance]]                                        |
-| [[April 4, 2025]]     | DP Trees and DAGs                                           |
+| [[April 4, 2025]]     | [[Maximum Independent Sets]]                                |
 | [[April 7, 2025]]     | DP Knapsack                                                 |
 | [[April 9, 2025]]     | DP TSP                                                      |
 | [[April 11, 2025]]    | DP KMP                                                      |
