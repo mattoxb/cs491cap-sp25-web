@@ -30,17 +30,17 @@
 | [[March 31, 2025]]    | [[DP Palindromes]]                                          |
 | [[April 2, 2025]]     | [[DP Edit Distance]]                                        |
 | [[April 4, 2025]]     | [[Maximum Independent Sets]]                                |
-| [[April 7, 2025]]     | DP Knapsack                                                 |
+| [[April 7, 2025]]     | [[DP Knapsack]]                                             |
 | [[April 9, 2025]]     | DP TSP                                                      |
-| [[April 11, 2025]]    | DP KMP                                                      |
-| [[April 14, 2025]]    | Rabin Karp                                                  |
-| [[April 16, 2025]]    | [[Primes and GCD]]                                          |
-| [[April 18, 2025]]    | Number Theory: Fermat's Little and Euler Torion             |
-| [[April 21, 2025]]    | Combinatorics, inclusion exclusion                          |
-| [[April 23, 2025]]    | Points, Lines, Vectors                                      |
-| [[April 25, 2025]]    | Shapes                                                      |
-| [[April 28, 2025]]    | Convex Hull                                                 |
-| [[April 30, 2025]]    | Line Sweep                                                  |
-| [[May 2, 2025]]       | Game Theory                                                 |
-| [[May 5, 2025]]       | Contest Strategy                                            |
-| [[May 7, 2025]]       | Interview Strategy                                          |
+| [[April 11, 2025]]    |                                                             |
+| [[April 14, 2025]]    | DP KMP                                                      |
+| [[April 16, 2025]]    | Rabin Karp                                                  |
+| [[April 18, 2025]]    |                                                             |
+| [[April 21, 2025]]    | [[Primes and GCD]]                                          |
+| [[April 23, 2025]]    | Number Theory: Fermat's Little and Euler Torion             |
+| [[April 25, 2025]]    |                                                             |
+| [[April 28, 2025]]    | Combinatorics, inclusion exclusion                          |
+| [[April 30, 2025]]    | Points, Lines, Vectors, Shapes                              |
+| [[May 2, 2025]]       |                                                             |
+| [[May 5, 2025]]       | Convex Hull                                                 |
+| [[May 7, 2025]]       | Line Sweep                                                  |
