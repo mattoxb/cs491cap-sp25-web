@@ -31,16 +31,16 @@
 | [[April 2, 2025]]     | [[DP Edit Distance]]                                        |
 | [[April 4, 2025]]     | [[Maximum Independent Sets]]                                |
 | [[April 7, 2025]]     | [[DP Knapsack]]                                             |
-| [[April 9, 2025]]     | DP TSP                                                      |
-| [[April 11, 2025]]    |                                                             |
+| [[April 9, 2025]]     | (Office Hour)                                               |
+| [[April 11, 2025]]    | [[DP TSP]]                                                  |
 | [[April 14, 2025]]    | DP KMP                                                      |
 | [[April 16, 2025]]    | Rabin Karp                                                  |
-| [[April 18, 2025]]    |                                                             |
+| [[April 18, 2025]]    | (Office Hour)                                               |
 | [[April 21, 2025]]    | [[Primes and GCD]]                                          |
 | [[April 23, 2025]]    | Number Theory: Fermat's Little and Euler Torion             |
-| [[April 25, 2025]]    |                                                             |
+| [[April 25, 2025]]    | (Office Hour)                                               |
 | [[April 28, 2025]]    | Combinatorics, inclusion exclusion                          |
 | [[April 30, 2025]]    | Points, Lines, Vectors, Shapes                              |
-| [[May 2, 2025]]       |                                                             |
+| [[May 2, 2025]]       | (Office Hour)                                               |
 | [[May 5, 2025]]       | Convex Hull                                                 |
 | [[May 7, 2025]]       | Line Sweep                                                  |
