@@ -10,7 +10,7 @@
 | [[February 5, 2025]]  | [[Binary Search Trees]]                                     |
 | [[February 7, 2025]]  | [[Graph Representations]]                                   |
 | [[February 10, 2025]] | [[Graph Traversals 1]]                                      |
-| [[February 12, 2025]] | [[Single Source Shortest Path]]]                            |
+| [[February 12, 2025]] | [[Single Source Shortest Path]]                             |
 | [[February 14, 2025]] | [[Bellman Ford and SPFA]]                                   |
 | [[February 17, 2025]] | [[Floyd-Warshall]]                                          |
 | [[February 19, 2025]] | [[Strongly Connected Components]]                           |
@@ -33,14 +33,14 @@
 | [[April 7, 2025]]     | [[DP Knapsack]]                                             |
 | [[April 9, 2025]]     | (Office Hour)                                               |
 | [[April 11, 2025]]    | [[DP TSP]]                                                  |
-| [[April 14, 2025]]    | DP KMP                                                      |
-| [[April 16, 2025]]    | Rabin Karp                                                  |
+| [[April 14, 2025]]    | [[DP KMP]]                                                  |
+| [[April 16, 2025]]    | [[Rabin Karp]]                                              |
 | [[April 18, 2025]]    | (Office Hour)                                               |
 | [[April 21, 2025]]    | [[Primes and GCD]]                                          |
-| [[April 23, 2025]]    | Number Theory: Fermat's Little and Euler Torion             |
+| [[April 23, 2025]]    | [[Fermat's Little Theorem and Euler's Totion Function]]     |
 | [[April 25, 2025]]    | (Office Hour)                                               |
-| [[April 28, 2025]]    | Combinatorics, inclusion exclusion                          |
-| [[April 30, 2025]]    | Points, Lines, Vectors, Shapes                              |
+| [[April 28, 2025]]    | [[Combinatorics, inclusion exclusion]]                      |
+| [[April 30, 2025]]    | [[Points, Lines, Vectors, Shapes]]                          |
 | [[May 2, 2025]]       | (Office Hour)                                               |
-| [[May 5, 2025]]       | Convex Hull                                                 |
-| [[May 7, 2025]]       | Line Sweep                                                  |
+| [[May 5, 2025]]       | [[Convex Hull]]                                             |
+| [[May 7, 2025]]       | [[Line Sweep]]                                              |
